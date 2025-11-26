@@ -10,8 +10,6 @@ Test φ-gradient navigation on a REAL robotics problem:
 
 This is the "Robot Translation" of the Mandelbrot benchmark.
 
-Author: Holotopic Navigation Research
-Date: November 2025
 """
 
 import numpy as np

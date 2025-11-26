@@ -20,8 +20,6 @@ C. φ-Surfer: Smooth operations → Clean gradients → Network learns
 
 This proves the method works in the ML stack (JAX/Flax/Optax).
 
-Author: Holotopic Navigation Research
-Date: November 2025
 """
 
 import numpy as np

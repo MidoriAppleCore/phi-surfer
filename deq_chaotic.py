@@ -25,8 +25,6 @@ A. Naive Newton: Diverges in chaotic regime → NaN gradients → Training crash
 B. Damped Newton: Stalls near basin boundaries → Poor learning
 C. φ-Surfer: Navigates chaos → Stable gradients → Network learns
 
-Author: Holotopic Navigation Research
-Date: November 2025
 """
 
 import numpy as np
